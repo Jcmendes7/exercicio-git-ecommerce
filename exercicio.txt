@@ -1,0 +1,16 @@
+Atividade da aula de hoje - Simulação dos objetos de um Ecommerce com Git
+Produto - Anne
+Cliente - Rodrigo
+Loja - Caroline
+Pedido - Professor
+Funções do Ecommerce - Professor
+1 - Cada um commitar isso na branch main
+2 - Pedido relacionar com produtos e cliente - Criar branch separada
+3 - Produto relacionar com Lojas - Criar branch separada
+4 - Loja relacionar com produtos - Criar branch separada
+5 - Cliente relacionar com compras - Criar branch separada
+6 - Cada um abrir uma pull request da sua branch para a main
+7 - Criar lista de produtos no arquivo Funções do Ecommerce - Pessoa B
+8 - Criar lista de clientes no arquivo funções do Ecommerce - Pessoa A
+9 - Criar lista de lojas no arquivo funções do Ecommerce - Pessoa C
+10 - Abrir pull request sobre essas modificações (será que vai dar conflito?)

@@ -1,0 +1,19 @@
+{
+  "name": "exercicio-git-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pedidos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcmendes7/exercicio-git-ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcmendes7/exercicio-git-ecommerce/issues"
+  },
+  "homepage": "https://github.com/Jcmendes7/exercicio-git-ecommerce#readme"
+}
