@@ -20,5 +20,5 @@ function Pedidos(
         this.cliente = cliente;
         this.cupomDesconto = cupomDesconto;
      }
-
+      
      module.exports = Pedidos;
